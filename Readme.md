@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CustomMapDataProvider/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CustomMapDataProvider/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/CustomMapDataProvider/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomMapDataProvider/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to implement a custom map data provider
 
 
