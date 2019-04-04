@@ -3,7 +3,7 @@
 
 * [CustomMapDataProviderTestPage.aspx](./CS/CustomMapDataProvider.Web/CustomMapDataProviderTestPage.aspx) (VB: [CustomMapDataProviderTestPage.aspx](./VB/CustomMapDataProvider.Web/CustomMapDataProviderTestPage.aspx))
 * [Silverlight.js](./CS/CustomMapDataProvider.Web/Silverlight.js) (VB: [Silverlight.js](./VB/CustomMapDataProvider.Web/Silverlight.js))
-* **[MainPage.xaml](./CS/CustomMapDataProvider/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CustomMapDataProvider/MainPage.xaml.vb))**
+* **[MainPage.xaml](./CS/CustomMapDataProvider/MainPage.xaml) (VB: [MainPage.xaml](./VB/CustomMapDataProvider/MainPage.xaml))**
 * [MainPage.xaml.cs](./CS/CustomMapDataProvider/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomMapDataProvider/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to implement a custom map data provider
